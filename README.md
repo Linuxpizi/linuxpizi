@@ -11,9 +11,3 @@
 </div>
 
 
-
-<div align="center" color="#61677c">
-Welcome, You are my <img src="https://profile-counter.glitch.me/skmcj/count.svg" alt="visitor" /> visitor, Thank You!🦀🦀
-</div>
-
-
