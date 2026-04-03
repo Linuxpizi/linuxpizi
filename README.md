@@ -7,8 +7,8 @@
 ### I'm Linuxpizi
 
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
-- 🌱 Currently working in Hangzhou, China.
-- 💬 Ask me about Java, TypeScript and my projects on [tangsong0202@gmail.com](mailto:tangsong0202@gmail.com)
+- 🌱 Currently working in NanJing, China.
+- 💬 Ask me about Golang, Python, TypeScript and my projects on [tangsong0202@gmail.com](mailto:tangsong0202@gmail.com)
 - ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
