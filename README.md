@@ -1,5 +1,4 @@
 ## Hello GitHub Fans 👋
-[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-xx-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
 [![Mail Badge](https://img.shields.io/badge/-tangsong0202@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:tangsong0202@gmail.com)](mailto:tangsong0202@gmail.com)
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
@@ -9,7 +8,7 @@
 - A Computer Engineering Undergraduate Student. & Open Source enthusiast.
 - 🌱 Currently working in NanJing, China.
 - 💬 Ask me about Golang, Python, TypeScript and my projects on [tangsong0202@gmail.com](mailto:tangsong0202@gmail.com)
-- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⭐ You may like [hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
 - ⚡ Fun fact: Data Analysis📊
 
 ### 🛠 技术栈 | Tech Stack
